@@ -6,7 +6,7 @@ Spécialisé dans le traîtement des données :
 
 • Soient récoltées par la méthode de CRAWLER, en aspirant les contenus des sites, par des méthodes adaptées, et de les injecter ensuite dans des bases dédiés et de créér des application pour retirer de ces sources des informations selon les applications que l'on souhaite, de site comme EBAY, ALIEXPRESS, ALIBABA, LE BONCOIN, LA CENTRALE, GOOGLE, etc, ... 
 
-Je propose de montrer les codes uniquement, et la structure de la bases par ex. INSEE, aucune application associé n'est montrée pour des raisons de sécurité.
+Je propose de montrer les codes uniquement, et la structure de la bases de l'INSEE, aucune application associé n'est montrée pour des raisons de sécurité.
 
 J'ai développé de multitude d'applications pour ensuite pouvoir trier, classifier, rechercher dans ces bases INSEE ou autres les informations demandés par le client, selon ses critères.
 
