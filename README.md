@@ -1,3 +1,42 @@
+This repository is primarily intended for companies to which I am applying for a C#.NET/SQL developer position, data processing, database creation and applications.
+
+Specialized in data processing:
+
+• Are collected in the form of CSV, XML files, etc.
+
+• Are collected by the CRAWLER method, site contents, by suitable methods, and then inject them into dedicated databases and create applications to remove information from these sources according to the applications desired, site like EBAY, ALIEXPRESS, ALIBABA, LE BONCOIN, LA CENTRALE, GOOGLE, etc, ...
+
+I propose to show the codes only, and the structure of the INSEE database, no associated application is shown for security reasons.
+
+I have developed a multitude of applications to then be able to sort, classify, search in these INSEE or other databases for the information requested by the client, according to their criteria.
+
+These additional programs are part of a set of programs intended for marketing, targeting by category, NAF code, commercial name, address, municipality, region, contacts, telephone numbers, e-mail address, telephone prospecting, sending SMS, emails, weather alerts, etc.
+• Contact creators of new businesses
+
+• Know the purchase, sale or liquidation price of the company, the buyer, the liquidation
+
+• List liberal professions, doctors, health personnel • Create a telephone call center for prospecting new clients
+
+• Target a geographic area
+
+• Map your prospecting areas in order to visually target your impact points in terms of Marketing
+
+• A web directory, send targeted SMS messages in numbers
+
+• Edit the directory of a municipality listing craftsmen, merchants, medical care, public services, recycling centers, swimming pools, green areas, points of geographical interest, areas of interest, activities or remarkable places culture, museums
+
+• Prevent weather alerts by SMS • Notify of a promotion at a merchant in a nearby area
+
+[Non-exhaustive list, the possibilities are almost endless! ]
+
+In this way, I am looking for a company with which I could integrate to pursue my passion for the development of multi-use applications.
+
+Thank you for reading and do not hesitate to contact me for further information, remaining at your disposal.
+
+Kind regards, Philippe
+
+::::::::::::::::::::::::::::::::::::::
+
 Ce repository est destiné avant tout aux entreprises à laquelle je postule pour un poste de développeur C#.NET/SQL, traitement des données, création de base de données et applications.
 
 Spécialisé dans le traîtement des données :
@@ -37,5 +76,8 @@ Je recherche de cette façon une entreprise avec laquelle, je pourrais m'intégr
 
 Merci pour votre lecture et n'hésitez-pas à me contacter pour plus amples informations, restant à votre disposition.
 
-Cordialent,
+Cordialement,
 Philippe
+
+
+
